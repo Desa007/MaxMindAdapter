@@ -3,7 +3,7 @@
   "description": "MaxmindAdapter",
   "autoload": {
     "psr-4": {
-      "Hillel\\Library": "src"
+      "Hillel\\Library\\": "src/"
     }
   }
 }
