@@ -4,7 +4,7 @@
 namespace Hillel\Library;
 
 
-class MaxMindAdapter
+class MaxMindAdapter extends AdapterInterface
 {
     protected $reader;
     protected $record = 0;
