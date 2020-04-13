@@ -1,7 +1,9 @@
 {
-  "name": "MaxmindAdapter",
+  "name": "Desa007/MaxMindAdapter",
   "description": "MaxmindAdapter",
   "autoload": {
-    "Hillel\\Library": "src"
+    "psr-4": {
+      "Hillel\\Library": "src"
+    }
   }
 }
