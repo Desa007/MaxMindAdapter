@@ -1,0 +1,7 @@
+{
+  "name": "MaxmindAdapter",
+  "description": "MaxmindAdapter",
+  "autoload": {
+    "Hillel\\Library": "src"
+  }
+}
